@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comment gagner de l'argent avec ton smartphone</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      background: #f5f5f5; 
+      padding: 50px; 
+    }
+    h1 { 
+      color: #ffcc00; 
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    p { 
+      font-size: 18px; 
+      margin-bottom: 30px;
+    }
+    img { 
+      width: 300px; 
+      border-radius: 10px; 
+      margin-bottom: 30px;
+    }
+    .btn { 
+      display: inline-block; 
+      padding: 15px 30px; 
+      background-color: #28a745; 
+      color: white; 
+      text-decoration: none; 
+      font-size: 20px; 
+      border-radius: 8px; 
+      transition: background 0.3s;
+    }
+    .btn:hover { 
+      background-color: #218838; 
+    }
+    .price { 
+      font-size: 24px; 
+      font-weight: bold; 
+      margin-bottom: 20px; 
+      color: #ff5722;
+    }
+    .instructions { 
+      font-size: 16px; 
+      margin-top: 20px; 
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Comment gagner de l'argent avec ton smartphone</h1>
+
+  <p>Apprends à générer des revenus en ligne depuis l’Afrique avec ce guide pratique de 10 pages.</p>
+
+  <img src="A_promotional_digital_graphic_design_cover_showcas.png" alt="Couverture Ebook">
+
+  <div class="price">Prix : 4,99 $ / équivalent FCFA</div>
+
+  <a class="btn" href="https://wa.me/243XXXXXXXXX?text=Je+veux+acheter+l'ebook" target="_blank">
+    Acheter via WhatsApp
+  </a>
+
+  <div class="instructions">
+    Payez via Mobile Money et envoyez la preuve sur WhatsApp pour recevoir votre ebook immédiatement.
+  </div>
+
+</body>
+</html>
